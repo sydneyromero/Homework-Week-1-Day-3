@@ -1,0 +1,32 @@
+form { margin: 0px 0px; }
+
+.form_2{ 
+
+    margin-top: 50px;
+}
+
+h2 {
+  margin-top: 2px;
+  margin-bottom: 10px;
+}
+
+.container { max-width: 360px; }
+
+.divider {
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.divider hr {
+  width: 25%;
+}
+.p
+{
+font-family: Amazon Ember;
+
+}
+
+.left { float: left; }
+
+.right { float: right; }
